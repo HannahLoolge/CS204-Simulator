@@ -1,0 +1,5 @@
+commands to run the code
+
+cd src-include-bin
+make
+./sample test_file_name.mc

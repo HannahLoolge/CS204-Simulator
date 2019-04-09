@@ -1,0 +1,37 @@
+TEAM MEMBERS
+
+Akansha Singh  2017csb1065
+Meghana Reddy  2017csb1094
+Priya Jain     2017csb1099
+Sapna Sharma   2017csb1105
+
+Work split-up in the group and Contribution of each team member------------------------------------------------------------------------------------------------------
+
+Task-1
+
+Akansha Singh - S and SB instruction format conversion into machine code.
+Meghana Reddy - UJ and I instruction format conversion into machine code.
+Priya JAin    - Label handling, SB, I instruction format conversion into machine code.
+Sapna Sharma  - R and U instruction format conversion into machine code
+
+Task-2
+
+Akansha Singh - Decode of SB and S instruction, handling Writeback and Memory stages.
+Meghana Reddy - Handling Control unit, Alu unit and execute stage, error handling of Writeback and Memory stages.
+Priya Jain    - Handling Control unit, Alu unit and execute stage, general debugging of complete code.
+Sapna Sharma  - Handling PC generation, Fetch and Decode stages,  general debugging of complete code.
+
+List of all the instructions that our code does not support, assumptions made and Limitations-------------------------------------------------------------------------
+
+1. All Pseudo instructions
+2. fence
+3. fence.i
+
+1. input file does not allow line spaces between instructions
+2. Error handling is not taken care now but some of the errors will be handled in the final design of simulator.
+
+
+
+
+****************END******************
+
